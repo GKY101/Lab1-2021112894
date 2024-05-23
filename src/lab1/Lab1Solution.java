@@ -1,5 +1,5 @@
 package lab1;
-
+//modified
 import java.io.*;
 import java.util.stream.Collectors;
 import java.nio.file.*;
