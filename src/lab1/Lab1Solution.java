@@ -5,7 +5,6 @@ import java.util.stream.Collectors;
 import java.nio.file.*;
 import java.util.*;
 import java.io.File;
-import java.net.*;
 public class Lab1Solution {
     private static Map<String, Node> nodes = new HashMap<>();
     private static List<Edge> edges = new ArrayList<>();
@@ -377,7 +376,7 @@ public class Lab1Solution {
 
 
             }
-            result+=currentNode.word;
+            result+=currentNode.word;//modified
             //result+=String.join(" -> ", t1);
             //currentNode=nodes.get(t1.get(t1.size()-1));
             //it.
