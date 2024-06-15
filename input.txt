@@ -1,3 +1,5 @@
-To explore strange new worlds,and kids
-<<<<<<< HEAD
-To seek out new life and new civilization
+Improvements in DNA sequencing have both broadened its utility and 
+dramatically increased the size of sequencing datasets. Sequencing instruments are 
+now used regularly as sources of high-resolution evidence for genotyping,
+methylation profiling, DNA-protein interaction mapping, and characterizing gene 
+expression in the human genome and in other species.
